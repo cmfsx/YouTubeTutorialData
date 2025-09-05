@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: Herath
+  given-names: Manjula
+  orcid: https://orcid.org/0000-0002-2620-1148
+title: Orthognathic Surgery Planning Sample Dataset
+version: 1.0.0
+date-released: 2025-09-05
+license: CC-BY-NC-4.0
+doi: 10.5281/zenodo.00000000
+keywords:
+  - orthognathic-surgery
+  - 3d-slicer
+  - sample-data
+  - dicom
+  - intra-oral-scan
+  - virtual-surgical-planning
